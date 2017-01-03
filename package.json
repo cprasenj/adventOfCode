@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "solving the advent of code problem",
+  "main": "calculte_distance.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "problem1"
+  ],
+  "author": "Prasenjit Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
